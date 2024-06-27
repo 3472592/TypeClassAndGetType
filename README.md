@@ -1,0 +1,2 @@
+# TypeClassAndGetType
+.NET C# 
